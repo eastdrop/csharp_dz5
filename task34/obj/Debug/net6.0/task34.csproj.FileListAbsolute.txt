@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\bin\Debug\net6.0\task34.exe
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\bin\Debug\net6.0\task34.deps.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\bin\Debug\net6.0\task34.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\bin\Debug\net6.0\task34.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\bin\Debug\net6.0\task34.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\refint\task34.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\task34.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz5\csharp_dz5\task34\obj\Debug\net6.0\ref\task34.dll
